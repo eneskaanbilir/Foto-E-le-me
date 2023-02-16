@@ -96,7 +96,7 @@ function kartTiklama(olay) {
 
         if (puan == 4){
             var congrats = document.createElement('img');
-            congrats.src = '../img/congratulations.gif';
+            congrats.src = 'https://store.donanimhaber.com/97/66/09/9766095dbbce648bd6e4be7d5b2d4167.gif';
             imageShow = document.querySelector('body').appendChild(congrats);
             console.log("Image Created");
 
